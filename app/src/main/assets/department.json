@@ -1,0 +1,127 @@
+[
+  {
+    "department_id": 1,
+    "department_name": "Amazonas",
+    "url": "https://c7.alamy.com/compes/3/f8d242e1c9fd4e01973619bc596662f1/hy547d.jpg"
+  },
+  {
+    "department_id": 2,
+    "department_name": "Ancash",
+    "url": "https://c7.alamy.com/compes/3/aae89d012057459bb47f9592f8dc8662/hy547e.jpg"
+  },
+  {
+    "department_id": 3,
+    "department_name": "Apurimac",
+    "url": "https://c7.alamy.com/compes/3/2075cac1062e4d0baf8ae5c42a86f19a/hy547f.jpg"
+  },
+  {
+    "department_id": 4,
+    "department_name": "Arequipa",
+    "url": "https://c7.alamy.com/compes/3/895b1300e3bb4df7891a76076d61b855/hy547g.jpg"
+  },
+  {
+    "department_id": 5,
+    "department_name": "Ayacucho",
+    "url": "https://c7.alamy.com/compes/3/cfa5343726d04ef2bca8e377f76d107d/hy547h.jpg"
+  },
+  {
+    "department_id": 6,
+    "department_name": "Cajamarca",
+    "url": "https://c7.alamy.com/compes/3/7442849dc6514e0fb18ab1f40a096fa7/hy547j.jpg"
+  },
+  {
+    "department_id": 7,
+    "department_name": "Callao",
+    "url": "https://c7.alamy.com/compes/3/e280ddb7ee40477db696403bbe64ffef/hy547k.jpg"
+  },
+  {
+    "department_id": 8,
+    "department_name": "Cusco",
+    "url": "https://c7.alamy.com/compes/3/2b3762bf8f0841debcc2128cc2a8269f/hy547m.jpg"
+  },
+  {
+    "department_id": 9,
+    "department_name": "Huancavelica",
+    "url": "https://c7.alamy.com/compes/3/970e58557cd24c82b26a5137a09081bf/hy547n.jpg"
+  },
+  {
+    "department_id": 10,
+    "department_name": "Huanuco",
+    "url": "https://c7.alamy.com/compes/3/265b63ec90cf4a92a2d90c69293ab05e/hy547p.jpg"
+  },
+  {
+    "department_id": 11,
+    "department_name": "Ica",
+    "url": "https://c7.alamy.com/compes/3/a3517ae48cec4de488ef4f42b6f0d9c7/hy547r.jpg"
+  },
+  {
+    "department_id": 12,
+    "department_name": "Junin",
+    "url": "https://c7.alamy.com/compes/3/cb351368debb4ed79f6cec2e872fccf8/hy547t.jpg"
+  },
+  {
+    "department_id": 13,
+    "department_name": "La Libertad",
+    "url": "https://c7.alamy.com/compes/3/e38734b5b9dd4559b11e73c9d1c40378/hy547x.jpg"
+  },
+  {
+    "department_id": 14,
+    "department_name": "Lambayeque",
+    "url": "https://c7.alamy.com/compes/3/5dd09d449f3f4ca5b914e17cd17925d7/hy5481.jpg"
+  },
+  {
+    "department_id": 15,
+    "department_name": "Lima",
+    "url": "https://c7.alamy.com/compes/3/cc780be5283142459144fda97614ded1/hy5482.jpg"
+  },
+  {
+    "department_id": 16,
+    "department_name": "Loreto",
+    "url": "https://c7.alamy.com/compes/3/40c40a9366e0410c91c126120f9e7ad5/hy5483.jpg"
+  },
+  {
+    "department_id": 17,
+    "department_name": "Madre de Dios",
+    "url": "https://c7.alamy.com/compes/3/dc211b3568b046dbaee87f594f0c1641/hy5486.jpg"
+  },
+  {
+    "department_id": 18,
+    "department_name": "Moquegua",
+    "url": "https://c7.alamy.com/compes/3/e98847eb7f874ddca08a2d6cd08ddbb7/hy5487.jpg"
+  },
+  {
+    "department_id": 19,
+    "department_name": "Pasco",
+    "url": "https://c7.alamy.com/compes/3/32d65ed3fdb042c09382b6a73a6ae63f/hy5488.jpg"
+  },
+  {
+    "department_id": 20,
+    "department_name": "Piura",
+    "url": "https://c7.alamy.com/compes/3/b70e28beecf444b1b47dd2215bb58242/hy548d.jpg"
+  },
+  {
+    "department_id": 21,
+    "department_name": "Puno",
+    "url": "https://c7.alamy.com/compes/3/de87338750f74328a6f8beb33f8bbcd9/hy548f.jpg"
+  },
+  {
+    "department_id": 22,
+    "department_name": "San Martin",
+    "url": "https://c7.alamy.com/compes/3/b9650b12296d488c970d64bc591784e9/hy548g.jpg"
+  },
+  {
+    "department_id": 23,
+    "department_name": "Tacna",
+    "url": "https://c7.alamy.com/compes/3/2b65721d2ce54ea9a919c39e30f6187b/hy548h.jpg"
+  },
+  {
+    "department_id": 24,
+    "department_name": "Tumbes",
+    "url": "https://c7.alamy.com/compes/3/8a71129a7eeb4c16a7e227f2f1e114ac/hy548j.jpg"
+  },
+  {
+    "department_id": 25,
+    "department_name": "Ucayali",
+    "url": "https://c7.alamy.com/compes/3/5d4bdf7956fa468a955e6a90b7760d7b/hy548k.jpg"
+  }
+]
