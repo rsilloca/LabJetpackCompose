@@ -83,7 +83,9 @@ fun DepartmentCard(department: Department) {
             .clickable {
                 val intentDishes = Intent(localContext, DishesActivity::class.java)
                 intentDishes.putExtra("id_department", department.department_id)
+                intentDishes.putExtra("name_department", department.department_name)
                 localContext.startActivity(intentDishes)
+
             }
     ) {
         Row(modifier = Modifier.padding(all = 8.dp)) {
