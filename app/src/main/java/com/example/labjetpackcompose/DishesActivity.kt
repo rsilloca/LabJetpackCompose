@@ -39,7 +39,7 @@ class DishesActivity : ComponentActivity() {
         val bundle: Bundle? = intent.extras
         val idDepartment = bundle?.getInt("id_department")
         val nameDepartment = bundle?.getString ("name_department").toString()
-        titleDep= "Comidas de $nameDepartment"
+        titleDep= "Platos típicos de $nameDepartment"
         if (idDepartment != null) {
             Log.e("department id", idDepartment.toString())
             val jsonFileString = getJsonDataFromAsset(applicationContext, "dish.json")

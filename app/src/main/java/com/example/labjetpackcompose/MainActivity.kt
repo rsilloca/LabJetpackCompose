@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
 fun BuildDepartmentsList(departments: List<Department>) {
     Scaffold(
         topBar = { TopAppBar(
-            title = { Text("Departments Activity") },
+            title = { Text("Departamentos del Perú") },
             backgroundColor = MaterialTheme.colors.primary
         )},
         content = {
